@@ -6,3 +6,5 @@ This module contains articles about genetic algorithms.
 
 - Full Stack Developer Indonesia
 - Co-Founder and CTO [Dentist Care Indonesia](https://dentistcare.id/)
+
+Other repository in [gitlab penadidik](https://gitlab.com/penadidik)
